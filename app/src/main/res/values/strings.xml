@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">SecretImage</string>
+
+    <string name="show_b">Показать_быстро</string>
+    <string name="hide_b">Скрыть_быстро</string>
+    <string name="show_p">Показать_плавно</string>
+    <string name="hide_p">Скрыть_плавно</string>
+
+</resources>
